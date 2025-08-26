@@ -23,3 +23,10 @@ It is inevitable that any broader discussion of diversity and inclusion will eng
 _Finally_
 
 - The goal is to enhance the experience of using our facilities and services for _everyone_, there is no other metric explicit or implied.
+
+## Contacts
+
+For information or concerns regarding this repository please use the following emails
+
+- David Brownless david.brownless@stfc.ac.uk
+- Simon Hodder simon.hodder@stfc.ac.uk
