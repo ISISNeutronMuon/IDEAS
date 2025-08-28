@@ -15,8 +15,8 @@ Please remember this site, forums and any uploaded content is covered by the [UK
 
 It is inevitable that any broader discussion of diversity and inclusion will engage with groups and issues beyond each individual's personal history or familiarity. Consequently, all participants are encouraged to remember the following points.
 
-- No amount of research replace first-hand experience.
-- Discussion may touch on situations affecting other participants, their relatives, or partners.
+- No amount of research replaces first-hand experience.
+- Discussions may touch on situations affecting other participants, their relatives, or partners.
 - Endeavour to speak to, rather than for, groups affected by concerns regarding inclusivity, diversity, equity or accessibility.
 - Solicit engagement with, and participation of, effected groups and individuals where possible and appropriate.
 
